@@ -1,3 +1,5 @@
 Olá meu nome é Diogo. 
 
 Tenho 27 anos
+
+Sou analista de infraestrutura
